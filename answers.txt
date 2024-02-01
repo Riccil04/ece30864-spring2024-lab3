@@ -1,1 +1,2 @@
 (a) The equivalent to the Product owner in a non-Agile project would be the Development Lead or a Team Lead of some kind. The role of the Product Owner in Agile methodology is to facilitate issues and delegate them to other members of the team.
+(b) While the Product Owner more so creates a path for the team to take and guide them to that path, the Scrum Master is the more hands counterpart to that role. The Scrum Master activiely creates issues in the Scrum framework and regularly holds meetings to solve them.
