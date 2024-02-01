@@ -1,1 +1,1 @@
-
+(a) The equivalent to the Product owner in a non-Agile project would be the Development Lead or a Team Lead of some kind. The role of the Product Owner in Agile methodology is to facilitate issues and delegate them to other members of the team.
